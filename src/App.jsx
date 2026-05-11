@@ -654,7 +654,7 @@ export default function Studio91() {
             {typed}<span style={{ animation: "blink 0.8s step-end infinite", opacity: typed.length < full.length ? 1 : 0 }}>|</span>
           </div>
           <p style={{ marginTop: 20, fontSize: 16, color: "#b090c0", maxWidth: 600, lineHeight: 2, fontWeight: 500 }}>
-            A lean indie studio crafting polished mobile experiences with <strong style={{ color: "#ff00ff" }}>React Native</strong> &amp; <strong style={{ color: "#00ffff" }}>Expo</strong> — from Jodhpur to the world. Every app we ship funds education for kids who deserve a shot at the future.
+            A lean indie studio crafting polished mobile experiences with <strong style={{ color: "#ff00ff" }}>React Native</strong> &amp; <strong style={{ color: "#00ffff" }}>Expo</strong> — from Sikar to the world. Every app we ship funds education for kids who deserve a shot at the future.
           </p>
           <div style={{ display: "flex", gap: 20, marginTop: 48, flexWrap: "wrap" }}>
             <a href="#apps" style={{ padding: "14px 32px", background: "#ff00ff", color: "#0a0010", fontFamily: "'Courier New',monospace", fontSize: 13, letterSpacing: 3, textTransform: "uppercase", fontWeight: 900, borderRadius: 4, transition: "all 0.3s", boxShadow: "0 0 24px rgba(255,0,255,0.5)" }}
@@ -677,7 +677,7 @@ export default function Studio91() {
           <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 60, alignItems: "start" }}>
             <div>
               <h2 style={{ fontSize: 40, color: "#ff00ff", fontFamily: "'Courier New',monospace", marginBottom: 24, lineHeight: 1.2, textShadow: "0 0 20px rgba(255,0,255,0.5)" }}>Built by builders,<br /><span style={{ color: "#00ffff" }}>not boardrooms.</span></h2>
-              <p style={{ fontSize: 16, color: "#c0a0e0", lineHeight: 2, marginBottom: 20 }}>Studio91 is a two-person indie studio from Jodhpur. We don't have investors, a growth team, or a ping-pong table. We have laptops, strong chai, and a genuine desire to build things that matter.</p>
+              <p style={{ fontSize: 16, color: "#c0a0e0", lineHeight: 2, marginBottom: 20 }}>Studio91 is a two-person indie studio from Sikar. We don't have investors, a growth team, or a ping-pong table. We have laptops, strong chai, and a genuine desire to build things that matter.</p>
               <p style={{ fontSize: 16, color: "#7050a0", lineHeight: 2, marginBottom: 28 }}>Right now we're heads-down on our first app — Slow. When the profits come, a real chunk goes toward education for underprivileged kids. That's the whole plan. Simple, honest, ours.</p>
               <div style={{ borderLeft: "3px solid #ff00ff", paddingLeft: 20, marginTop: 8 }}>
                 <p style={{ fontSize: 14, color: "#e0b0ff", fontStyle: "italic", lineHeight: 1.9 }}>
